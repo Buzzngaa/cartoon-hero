@@ -1,0 +1,21 @@
+h1{
+			Font-size: 30px;
+			Color: teal;
+		}
+		h2{
+			font-size: 20px;
+			color: darkred;
+		}
+		.big{
+			font size: 60px;
+		}
+		.uppercase{
+			text-transform: uppercase;
+		}
+		.big.uppercase{
+			color: darkred;
+		}
+
+		h1 span{
+			color: violet;
+		}
